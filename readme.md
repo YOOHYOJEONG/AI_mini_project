@@ -33,8 +33,8 @@ Mini projects of CV, NLP, Recommender System.
 ## Going Deeper - CV mini projects
 | Contenss | Title | Practice | Project |   
 | :--: | :--: | :--: | :--: |   
-| Ablation Study | Backbone Network | 📂 | - |   
-| Ablation Study | Resnet Model 구현 | 📂-VGG | 📂-Resnet |   
+| Ablation Study | Backbone Network | [📂](https://github.com/YOOHYOJEONG/AIFFEL_LMS_practice/blob/master/goingdeeper/gd_node_01_backbone.ipynb) | - |   
+| Ablation Study | Resnet Model 구현 | [📂 - VGG ](https://github.com/YOOHYOJEONG/AIFFEL_LMS_practice/blob/master/goingdeeper/gd_node_02_Ablation_Study.ipynb) | [📂 - Resnet](https://github.com/YOOHYOJEONG/AIFFEL_LMS_project/blob/master/gd02/gd02_ResNet_Ablation_Study.ipynb) |   
 | Data Augmentation | Image Augmentation | [📂](https://github.com/YOOHYOJEONG/AIFFEL_LMS_practice/blob/master/goingdeeper/gd_node_03_Augmentation.ipynb) | - |   
 | Data Augmentation | CutMix, Mixup | [📂](https://github.com/YOOHYOJEONG/AIFFEL_LMS_practice/blob/master/goingdeeper/gd_node_04_CutMix_Mixup.ipynb) | [📂](https://github.com/YOOHYOJEONG/AIFFEL_LMS_project/blob/master/gd04/gd04_CutMix_VS_Mixup.ipynb) |   
 | Image Classification | Class Activation Map | [📂](https://github.com/YOOHYOJEONG/AIFFEL_LMS_practice/blob/master/goingdeeper/gd_node_05_Class_Activation.ipynb) | - |   
@@ -42,6 +42,6 @@ Mini projects of CV, NLP, Recommender System.
 | Object Detection | Object Detection Models | [📂](https://github.com/YOOHYOJEONG/AIFFEL_LMS_practice/blob/master/goingdeeper/gd_node_07_Object_Detection.ipynb) | - |   
 | Object Detection | 자율주행 보조 시스템 만들기 | [📂](https://github.com/YOOHYOJEONG/AIFFEL_LMS_practice/blob/master/goingdeeper/gd_node_08_Object_Detection_System.ipynb) | [📂](https://github.com/YOOHYOJEONG/AIFFEL_LMS_project/blob/master/gd08/gd08_Object_Detection_System.ipynb) |   
 | Segmentation | Segmentation 종류 | [📂](https://github.com/YOOHYOJEONG/AIFFEL_LMS_practice/blob/master/goingdeeper/gd_node_09_Segementation.ipynb) | - |   
-| Segmentaion | Semantice Segmentaion | [📂](https://github.com/YOOHYOJEONG/AIFFEL_LMS_practice/blob/master/goingdeeper/gd_node_10_Semantic_Segmentation.ipynb) | [📂](https://github.com/YOOHYOJEONG/AIFFEL_LMS_project/blob/master/gd10/gd10_Semantic_Segmentation.ipynb) - U-Net 개선 |   
+| Segmentaion | Semantice Segmentaion | [📂](https://github.com/YOOHYOJEONG/AIFFEL_LMS_practice/blob/master/goingdeeper/gd_node_10_Semantic_Segmentation.ipynb) | [📂 - U-Net 개선](https://github.com/YOOHYOJEONG/AIFFEL_LMS_project/blob/master/gd10/gd10_Semantic_Segmentation.ipynb) |   
 | OCR | Text detection, Text recognition | [📂](https://github.com/YOOHYOJEONG/AIFFEL_LMS_practice/blob/master/goingdeeper/gd_node_11_OCR.ipynb) | - |   
 | OCR | End to End OCR | [📂](https://github.com/YOOHYOJEONG/AIFFEL_LMS_practice/blob/master/goingdeeper/gd_node_12_OCR_Text%20Recognition.ipynb) | [📂](https://github.com/YOOHYOJEONG/AIFFEL_LMS_project/blob/master/gd12/gd12_End_to_End_OCR.ipynb) |   
