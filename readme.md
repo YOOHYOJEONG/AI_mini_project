@@ -1,4 +1,4 @@
-# AIFFEL Projects - 리드미 정리 중
+# AIFFEL Mini Projects
 Mini projects of CV, NLP, Recommender System.   
 
 ---   
