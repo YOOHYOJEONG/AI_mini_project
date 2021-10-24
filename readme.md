@@ -4,7 +4,7 @@ Mini projects of CV, NLP, Recommender System.
 ---   
 
 ## Exploration
-| Contenss | Title | Practice | Project |   
+| Content | Title | Practice | Project |   
 | :--: | :--: | :--: | :--: |   
 | Image Classificaiton | 가위바위보 사진 분류 | [📂](https://github.com/YOOHYOJEONG/AIFFEL_LMS_practice/blob/master/exploration/lms_ex_1.py) | [📂](https://github.com/YOOHYOJEONG/AIFFEL_LMS_project/blob/master/ex01/ex1_rock_scissor_paper.ipynb) |   
 | Classification | Toy Datasets 분류 | [📂](https://github.com/YOOHYOJEONG/AIFFEL_LMS_practice/blob/master/exploration/lms_ex_2.ipynb) | [📂](https://github.com/YOOHYOJEONG/AIFFEL_LMS_project/tree/master/ex02) |   
@@ -31,7 +31,7 @@ Mini projects of CV, NLP, Recommender System.
 ---   
 
 ## Going Deeper - CV mini projects
-| Contenss | Title | Practice | Project |   
+| Content | Title | Practice | Project |   
 | :--: | :--: | :--: | :--: |   
 | Ablation Study | Backbone Network | [📂](https://github.com/YOOHYOJEONG/AIFFEL_LMS_practice/blob/master/goingdeeper/gd_node_01_backbone.ipynb) | - |   
 | Ablation Study | Resnet Model 구현 | [📂 - VGG ](https://github.com/YOOHYOJEONG/AIFFEL_LMS_practice/blob/master/goingdeeper/gd_node_02_Ablation_Study.ipynb) | [📂 - Resnet](https://github.com/YOOHYOJEONG/AIFFEL_LMS_project/blob/master/gd02/gd02_ResNet_Ablation_Study.ipynb) |   
