@@ -47,3 +47,4 @@ Mini projects of CV, NLP, Recommender System.
 | OCR | End to End OCR | [📂](https://github.com/YOOHYOJEONG/AIFFEL_LMS_practice/blob/master/goingdeeper/gd_node_12_OCR_Text%20Recognition.ipynb) | [📂](https://github.com/YOOHYOJEONG/AIFFEL_LMS_project/blob/master/gd12/gd12_End_to_End_OCR.ipynb) |    
 | Face Detection | YOLO vs SSD | [📂](https://github.com/YOOHYOJEONG/AIFFEL_LMS_practice/blob/master/goingdeeper/gd_node_13_Face_Detection.ipynb) | - |   
 | Face Detection Bbox | SSD Model, Bounding Box | [📂](https://github.com/YOOHYOJEONG/AIFFEL_LMS_practice/blob/master/goingdeeper/gd_node_14_Bounding_Box.ipynb) | [📂 - 미완성](https://github.com/YOOHYOJEONG/AIFFEL_LMS_project/blob/master/gd14/gd14_Face_Detection_BBox.ipynb) |   
+| Human_Pose_Estimation | SimpleBaseline | [📂](https://github.com/YOOHYOJEONG/AIFFEL_LMS_practice/blob/master/goingdeeper/gd_node_15_Human_Pose_Estimation.ipynb) | - |   
