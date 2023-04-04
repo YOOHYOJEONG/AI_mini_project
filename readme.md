@@ -1,5 +1,6 @@
-# AIFFEL Mini Projects
+# AI Mini Projects
 Mini projects of CV, NLP, Recommender System.   
+during AIFFEL   
 
 ---   
 
